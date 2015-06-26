@@ -3,11 +3,11 @@
 1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
 2. [Ephemeral Nodes](#ephemeral-nodes)
 3. [Ephemeral Nodes Results](#ephemeral-nodes-results)
-    * [Highland Oregano Lv.56](#highland-oregano)
-    * [Fury Mint Lv.58](#fury-mint)
-    * [Granular Clay Lv.56](#granular-clay)
-    * [Peat Moss Lv.58](#peat-moss)
-    * [Black Soil Lv.60](#black-soil)
+    * [Highland Oregano Lv.56](##highland-oregano-lv56)
+    * [Fury Mint Lv.58](#fury-mint-lv58)
+    * [Granular Clay Lv.56](#granular-clay-lv56)
+    * [Peat Moss Lv.58](#peat-moss-lv58)
+    * [Black Soil Lv.60](#black-soil-lv60)
 
 ## Half-day Unspoiled Nodes
 
@@ -38,14 +38,14 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * **Coerthas (0000)**
 * **Hinterlands (0400)** 
 * **Forelands (0800)**
-  * [Granular Clay Lv.56](#granular-clay)  
-  * [Peat Moss Lv.58](#peat-moss)
-  * [Black Soil Lv.60](#black-soil)
+  * [Granular Clay Lv.56](#granular-clay-lv56) 
+  * [Peat Moss Lv.58](#peat-moss-lv58)
+  * [Black Soil Lv.60](#black-soil-lv60)
 * **??? (1200)**
 * **Churning Mists (1600)**
-  * [Granular Clay Lv.56](#granular-clay)   
-  * [Peat Moss Lv.58](#peat-moss)
-  * [Black Soil Lv.60](#black-soil)
+  * [Granular Clay Lv.56](#granular-clay-lv56)  
+  * [Peat Moss Lv.58](#peat-moss-lv58)
+  * [Black Soil Lv.60](#black-soil-lv60)
 
 ## Ephemeral Nodes Results
 
