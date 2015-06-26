@@ -3,12 +3,11 @@
 1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
 2. [Ephemeral Nodes](#ephemeral-nodes)
 3. [Ephemeral Nodes Results](#ephemeral-nodes-results)
-    * [Highland Oregano](#highland-oregano)
-    * [Fury Mint](#fury-mint)
-    * [Black Soil](#black-soil)
-    * [Granular Clay](#granular-clay)
-    * [Peat Moss](#peat-moss)
-
+    * [Highland Oregano Lv.56](#highland-oregano)
+    * [Fury Mint Lv.58](#fury-mint)
+    * [Granular Clay Lv.56](#granular-clay)
+    * [Peat Moss Lv.58](#peat-moss)
+    * [Black Soil Lv.60](#black-soil)
 
 ## Half-day Unspoiled Nodes
 
@@ -39,12 +38,20 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * **Coerthas (0000)**
 * **Hinterlands (0400)** 
 * **Forelands (0800)**
+  * [Granular Clay Lv.56](#granular-clay)  
+  * [Peat Moss Lv.58](#peat-moss)
+  * [Black Soil Lv.60](#black-soil)
 * **??? (1200)**
 * **Churning Mists (1600)**
+  * [Granular Clay Lv.56](#granular-clay)   
+  * [Peat Moss Lv.58](#peat-moss)
+  * [Black Soil Lv.60](#black-soil)
 
 ## Ephemeral Nodes Results
 
-### Highland Oregano
+Each Rarity list contains what you can get, not a full results list. That being said, you seem to always get some amount of crystals.
+
+### Highland Oregano Lv.56
 
 **Rare 1**
 * 10-21 W Cry
@@ -59,25 +66,23 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * 1-2 Dusk sand
 
 **Rare 5**
-* 20 W Cry
+* 18-30 W Cry
 * Dawn Sand
 * Dusk Sand
 
-### Fury Mint
+### Fury Mint Lv.60
 
 **Rare 2**
 * 32 W Cry
 * 35 W Cl
 
-### Black Soil
-
-**Rare 1**
-* 61 E Cry
-
 ### Granular Clay Lv.56
+**Rare 1 (-250)**
+* 13-30 E Cry
+
 **Rare 2 (300-350)**
-* 11-16 E Cry
-* 3 E Cl
+* 11-19 E Cry
+* 3-7 E Cl
 
 **Rare 4 (400-450)**
 * 13-24 E Cry
@@ -88,9 +93,13 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * HQ Dawn Sand
 * 1-3 Leaf Sand
 
-### Peat Moss
-**Rare 1**
-* 33 E Cry
+### Peat Moss Lv.58
+**Rare 1 (-250)**
+* 32-43 E Cry
+* 
+**Rare 2**
+* 32 E Cry
+* 31 E Cl
 
 **Rare 7 (500-550?)**
 * 42 E Cry
@@ -100,3 +109,8 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * 33-50 E Cry
 * 1 Leaf Sand
 * 1 Dusk Sand
+
+### Black Soil Lv.60
+
+**Rare 1 (-300)**
+* 55-62 E Cry
