@@ -3,7 +3,7 @@
 1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
 2. [Ephemeral Nodes](#ephemeral-nodes)
 3. [Ephemeral Nodes Results](#ephemeral-nodes-results)
-    * [Highland Oregano Lv.56](##highland-oregano-lv56)
+    * [Highland Oregano Lv.56](#highland-oregano-lv56)
     * [Fury Mint Lv.58](#fury-mint-lv58)
     * [Granular Clay Lv.56](#granular-clay-lv56)
     * [Peat Moss Lv.58](#peat-moss-lv58)
