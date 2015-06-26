@@ -5,6 +5,7 @@
 3. [Aetherial Reduction Results](#aetherial-reduction-results)
     * [Highland Oregano Lv.56](#highland-oregano-lv56)
     * [Fury Mint Lv.58](#fury-mint-lv58)
+    * [Clary Sage Lv.60](#clary-sage-lv60)
     * [Granular Clay Lv.56](#granular-clay-lv56)
     * [Peat Moss Lv.58](#peat-moss-lv58)
     * [Black Soil Lv.60](#black-soil-lv60)
@@ -41,10 +42,16 @@ Requires 600 Gathering & 645 Perception.
 
 ## Ephemeral Nodes
 
-These nodes appear for 4 hours. They can be reappear in that 4 hours, if you touch 3 different nodes surrounding them.
+These nodes appear for 4 hours. They can be reappear again in that 4 hours, if you touch 2 different nodes from 2 different node "clusters" surrounding them.
 
 * **Coerthas (0000)**
+  * [Highland Oregano Lv.56](#highland-oregano-lv56)
+  * [Fury Mint Lv.58](#fury-mint-lv58)
+  * [Clary Sage Lv.60](#clary-sage-lv60)
 * **Hinterlands (0400)** 
+  * [Granular Clay Lv.56](#granular-clay-lv56)  
+  * [Peat Moss Lv.58](#peat-moss-lv58)
+  * [Black Soil Lv.60](#black-soil-lv60)
 * **Forelands (0800)**
   * [Granular Clay Lv.56](#granular-clay-lv56) 
   * [Peat Moss Lv.58](#peat-moss-lv58)
@@ -57,6 +64,7 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * **Sea of Clouds (2000)** 
   * [Highland Oregano Lv.56](#highland-oregano-lv56)
   * [Fury Mint Lv.58](#fury-mint-lv58)
+  * [Clary Sage Lv.60](#clary-sage-lv60)
 
 ## Aetherial Reduction Results
 
@@ -68,8 +76,8 @@ Each Rarity list contains what you can get, not a full results list. That being 
 * 10-21 W Cry
 
 **Rare 2**
-* 10-19 W Cry
-* 3-6 W Cl
+* 10-30 W Cry
+* 3-7 W Cl
 
 **Rare 3**
 * 19~ W Cry
@@ -81,11 +89,17 @@ Each Rarity list contains what you can get, not a full results list. That being 
 * Dawn Sand
 * Dusk Sand
 
-### Fury Mint Lv.60
+### Fury Mint Lv.58
 
 **Rare 2**
-* 32-40 W Cry
-* 35-41 W Cl
+* 30-49 W Cry
+* 31-47 W Cl
+
+### Clary Sage Lv.60
+
+**Rare 2**
+* 53-69 W Cry
+* 51-67 W Cl
 
 ### Granular Clay Lv.56
 **Rare 1 (-250)**
@@ -107,7 +121,7 @@ Each Rarity list contains what you can get, not a full results list. That being 
 ### Peat Moss Lv.58
 **Rare 1 (-250)**
 * 32-43 E Cry
-* 
+
 **Rare 2**
 * 32-45 E Cry
 * 30-43 E Cl
