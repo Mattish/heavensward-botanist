@@ -2,7 +2,7 @@
 
 1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
 2. [Ephemeral Nodes](#ephemeral-nodes)
-3. [Ephemeral Nodes Results](#ephemeral-nodes-results)
+3. [Aetherial Reduction Results](#aetherial-reduction-results)
     * [Highland Oregano Lv.56](#highland-oregano-lv56)
     * [Fury Mint Lv.58](#fury-mint-lv58)
     * [Granular Clay Lv.56](#granular-clay-lv56)
@@ -11,6 +11,15 @@
 
 ## Half-day Unspoiled Nodes
 
+
+**_Legendary_**
+Requires 600 Gathering & 645 Perception.
+* **Azys Lla 7am/pm** 
+  * Slot 5 Wattle Bark
+* **Sea of Clouds 5am/pm** 
+  * Slot ? Honeydew Almonds
+
+**_Normal_**
 * **Coerthas 9am/pm** 
   * Slot 6 Chysahl Greens
 * **Coerthas 10am/pm**
@@ -34,20 +43,22 @@
 
 These nodes appear for 4 hours. They can be reappear in that 4 hours, if you touch 3 different nodes surrounding them.
 
-* **Sea of Clouds (2000)** 
 * **Coerthas (0000)**
 * **Hinterlands (0400)** 
 * **Forelands (0800)**
   * [Granular Clay Lv.56](#granular-clay-lv56) 
   * [Peat Moss Lv.58](#peat-moss-lv58)
   * [Black Soil Lv.60](#black-soil-lv60)
-* **??? (1200)**
+* **??? "Rest Period/Toilet Break/Food Time" (1200)** 
 * **Churning Mists (1600)**
   * [Granular Clay Lv.56](#granular-clay-lv56)  
   * [Peat Moss Lv.58](#peat-moss-lv58)
   * [Black Soil Lv.60](#black-soil-lv60)
+* **Sea of Clouds (2000)** 
+  * [Highland Oregano Lv.56](#highland-oregano-lv56)
+  * [Fury Mint Lv.58](#fury-mint-lv58)
 
-## Ephemeral Nodes Results
+## Aetherial Reduction Results
 
 Each Rarity list contains what you can get, not a full results list. That being said, you seem to always get some amount of crystals.
 
@@ -57,8 +68,8 @@ Each Rarity list contains what you can get, not a full results list. That being 
 * 10-21 W Cry
 
 **Rare 2**
-* 19~ W Cry
-* 6~ W Cl
+* 10-19 W Cry
+* 3-6 W Cl
 
 **Rare 3**
 * 19~ W Cry
@@ -73,8 +84,8 @@ Each Rarity list contains what you can get, not a full results list. That being 
 ### Fury Mint Lv.60
 
 **Rare 2**
-* 32 W Cry
-* 35 W Cl
+* 32-40 W Cry
+* 35-41 W Cl
 
 ### Granular Clay Lv.56
 **Rare 1 (-250)**
@@ -98,8 +109,8 @@ Each Rarity list contains what you can get, not a full results list. That being 
 * 32-43 E Cry
 * 
 **Rare 2**
-* 32 E Cry
-* 31 E Cl
+* 32-45 E Cry
+* 30-43 E Cl
 
 **Rare 7 (500-550?)**
 * 42 E Cry
@@ -114,3 +125,7 @@ Each Rarity list contains what you can get, not a full results list. That being 
 
 **Rare 1 (-300)**
 * 55-62 E Cry
+
+**Rare 2 (300-350)**
+* 53-62 E Cry
+* 50-63 E Cl
