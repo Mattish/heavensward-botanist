@@ -1,4 +1,4 @@
-# Final Fantasy 14: Heavens'ward Gathering
+# Final Fantasy 14: Heavensward Botanist Gathering
 
 1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
 2. [Ephemeral Nodes](#ephemeral-nodes)
@@ -35,28 +35,28 @@
 
 These nodes appear for 4 hours. They can be reappear in that 4 hours, if you touch 3 different nodes surrounding them.
 
-* *Sea of Clouds (2000)* 
-* *Coerthas(0000)*
-* *Hinterlands(0400)* 
-* *Forelands(0800)*
-* *??? (1200)*
-* *Churning Mists (1600)* 
+* **Sea of Clouds (2000)** 
+* **Coerthas (0000)**
+* **Hinterlands (0400)** 
+* **Forelands (0800)**
+* **??? (1200)**
+* **Churning Mists (1600)**
 
 ## Ephemeral Nodes Results
-
 
 ### Highland Oregano
 
 **Rare 1**
-* 10 W Cry
-* 21 W Cry
+* 10-21 W Cry
 
 **Rare 2**
-* 19 W Cry, 6 W Cl
+* 19~ W Cry
+* 6~ W Cl
 
 **Rare 3**
-* 19 W Cry, 5 W Cl
-* 19 W Cry, 2 dusk sand
+* 19~ W Cry
+* 5~ W Cl
+* 1-2 Dusk sand
 
 **Rare 5**
 * 20 W Cry, dawn/dusk Sand
@@ -72,19 +72,27 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 **Rare 1**
 * 61 E Cry
 
-### Granular Clay
-**Rare 2**
+### Granular Clay Lv.56
+**Rare 2 (300-350)**
 * 11 E Cry, 3 E Cl
 
-**Rare 4(400-450)**
+**Rare 4 (400-450)**
 * 21 E Cry, Dusk sand
 * 24 E Cry, 3 Dusk sand
 * 13 E Cry, HQ Dusk Sand
 
-**Rare 8(650+?)**
+**Rare 8 (650+?)**
 * 27 E Cry, HQ Dawn Sand
 * 15 E Cry, 3 Leaf Sand
 
 ### Peat Moss
 **Rare 1**
 * 33 E Cry
+
+**Rare 7 (500-550?)**
+* 42 E Cry
+* 1 Dawn Sand
+
+**Rare 8 (550+)**
+* 42 E Cry
+* 1 Leaf Sand
