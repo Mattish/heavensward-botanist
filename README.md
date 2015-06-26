@@ -59,13 +59,15 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * 1-2 Dusk sand
 
 **Rare 5**
-* 20 W Cry, dawn/dusk Sand
-* 20 W Cry, dusk Sand
+* 20 W Cry
+* Dawn Sand
+* Dusk Sand
 
 ### Fury Mint
 
 **Rare 2**
-* 32 W Cry, 35 W Cl
+* 32 W Cry
+* 35 W Cl
 
 ### Black Soil
 
@@ -74,16 +76,17 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 
 ### Granular Clay Lv.56
 **Rare 2 (300-350)**
-* 11 E Cry, 3 E Cl
+* 11-16 E Cry
+* 3 E Cl
 
 **Rare 4 (400-450)**
-* 21 E Cry, Dusk sand
-* 24 E Cry, 3 Dusk sand
-* 13 E Cry, HQ Dusk Sand
+* 13-24 E Cry
+* HQ / 1 - 3 Dusk sand
 
 **Rare 8 (650+?)**
-* 27 E Cry, HQ Dawn Sand
-* 15 E Cry, 3 Leaf Sand
+* 15-27 E Cry
+* HQ Dawn Sand
+* 1-3 Leaf Sand
 
 ### Peat Moss
 **Rare 1**
@@ -94,5 +97,6 @@ These nodes appear for 4 hours. They can be reappear in that 4 hours, if you tou
 * 1 Dawn Sand
 
 **Rare 8 (550+)**
-* 42 E Cry
+* 33-50 E Cry
 * 1 Leaf Sand
+* 1 Dusk Sand
