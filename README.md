@@ -1,13 +1,13 @@
 # Final Fantasy 14: Heavens'ward Gathering
 
-1. [Half-day Unspoiled Nodes](#markdown-header-half-day-unspoiled-nodes)
-2. [Ephemeral Nodes](#markdown-header-ephemeral-nodes)
-3. [Ephemeral Nodes Results](#markdown-header-ephemeral-nodes-results)
-    * [Highland Oregano](#markdown-header-highland-oregano)
-    * [Fury Mint](#markdown-header-fury-mint)
-    * [Black Soil](#markdown-header-black-soil)
-    * [Granular Clay](#markdown-header-granular-clay)
-    * [Peat Moss](#markdown-header-peat-moss)
+1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
+2. [Ephemeral Nodes](#ephemeral-nodes)
+3. [Ephemeral Nodes Results](#ephemeral-nodes-results)
+    * [Highland Oregano](#highland-oregano)
+    * [Fury Mint](#fury-mint)
+    * [Black Soil](#black-soil)
+    * [Granular Clay](#granular-clay)
+    * [Peat Moss](#peat-moss)
 
 
 ## Half-day Unspoiled Nodes
