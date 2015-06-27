@@ -1,7 +1,7 @@
 # Final Fantasy 14: Heavensward Botanist
 
-1. 
-2. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
+1. [Maps](#maps)
+2. [Half-day Unspoiled Nodes](#half-day-unspoiled-nodes)
 3. [Ephemeral Nodes](#ephemeral-nodes)
 4. [Aetherial Reduction Results](#aetherial-reduction-results)
     * [Highland Oregano Lv.56](#highland-oregano-lv56)
