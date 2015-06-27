@@ -1,8 +1,9 @@
 # Final Fantasy 14: Heavensward Botanist Gathering
 
-1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
-2. [Ephemeral Nodes](#ephemeral-nodes)
-3. [Aetherial Reduction Results](#aetherial-reduction-results)
+1. 
+2. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
+3. [Ephemeral Nodes](#ephemeral-nodes)
+4. [Aetherial Reduction Results](#aetherial-reduction-results)
     * [Highland Oregano Lv.56](#highland-oregano-lv56)
     * [Fury Mint Lv.58](#fury-mint-lv58)
     * [Clary Sage Lv.60](#clary-sage-lv60)
@@ -10,8 +11,11 @@
     * [Peat Moss Lv.58](#peat-moss-lv58)
     * [Black Soil Lv.60](#black-soil-lv60)
 
-## Half-day Unspoiled Nodes
+## Maps
 
+Dragon/Wyvern Skin maps can be found from any Lv.60 node. They feel like they take longer to get then Lv.50, but could just be me.
+
+## Half-day Unspoiled Nodes
 
 **_Legendary_**
 Requires 600 Gathering & 645 Perception.
