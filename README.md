@@ -1,4 +1,4 @@
-# Final Fantasy 14: Heavensward Botanist Gathering
+# Final Fantasy 14: Heavensward Botanist
 
 1. [Half-day Unspoiled Nodes](#alf-day-unspoiled-nodes)
 2. [Ephemeral Nodes](#ephemeral-nodes)
