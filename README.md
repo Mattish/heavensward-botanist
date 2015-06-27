@@ -46,7 +46,7 @@ Requires 600 Gathering & 645 Perception.
 
 ## Ephemeral Nodes
 
-These nodes appear for 4 hours. They can be reappear again in that 4 hours, if you touch 2 different nodes from 2 different node "clusters" surrounding them.
+These nodes appear for 4 hours. They can be reappear again in that 4 hours, if you touch 2 different nodes from 2 different node "pairs" surrounding them.
 
 * **Coerthas (0000)**
   * [Highland Oregano Lv.56](#highland-oregano-lv56)
