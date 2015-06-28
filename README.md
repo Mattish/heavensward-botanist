@@ -47,11 +47,15 @@ Dragon/Wyvern Skin maps can be found from any Lv.60 node. They feel like they ta
 ## Half-day Unspoiled Nodes
 
 **_Legendary_**
-Requires 600 Gathering & 645 Perception.
+
+Requires 600 Gathering & 645 Perception. At 612 Gathering and 655 Perception you have a 75% chance to gather and 8% chance for HQ.
+
 * **Azys Lla 7pm** 
   * Slot 5 Wattle Bark
 * **Sea of Clouds 5pm** 
-  * Slot ? Honeydew Almonds
+  * Slot 2 Honeydew Almonds
+
+**_I have yet to unlock the other books :time:_**
 
 **_Normal_**
 * **Coerthas 9am/pm** 
