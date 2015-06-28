@@ -1,15 +1,44 @@
 # Final Fantasy 14: Heavensward Botanist
 
-1. [Maps](#maps)
-2. [Half-day Unspoiled Nodes](#half-day-unspoiled-nodes)
-3. [Ephemeral Nodes](#ephemeral-nodes)
-4. [Aetherial Reduction Results](#aetherial-reduction-results)
+1. [Gear](#gear)
+2. [Maps](#maps)
+3. [Half-day Unspoiled Nodes](#half-day-unspoiled-nodes)
+4. [Ephemeral Nodes](#ephemeral-nodes)
+5. [Aetherial Reduction Results](#aetherial-reduction-results)
     * [Highland Oregano Lv.56](#highland-oregano-lv56)
     * [Fury Mint Lv.58](#fury-mint-lv58)
     * [Clary Sage Lv.60](#clary-sage-lv60)
     * [Granular Clay Lv.56](#granular-clay-lv56)
     * [Peat Moss Lv.58](#peat-moss-lv58)
     * [Black Soil Lv.60](#black-soil-lv60)
+
+## Gear
+
+Pretty half hearted list/guide here of what you need to be able to HQ gather the first star legendary nodes.
+This is a list that I got to with no Forbidden melds. It is no means perfect but fudge forbidden melds.
+
+* Adamantite Hatchet HQ
+* Adamantite Scythe HQ
+* Serpentskin Bush Hat HQ
+* Serpentskin Vest HQ
+* Serpentskin Gloves HQ
+* Wyvernskin Field Belt
+* Chermical Felt Trousers HQ
+* Serpentskin Fringe Boots HQ
+* Wyvernskin Chocker HQ
+* Mythrite Earrings of Gathering HQ
+* Dragonskin Wristbands HQ
+* Dragonskin Ring HQ x 2
+
+A lot of the gear has a high cap for stats so you can pretty much put them anywhere. Materia is as follows:
+
+* 10 x Gatherer's Guile IV
+* 3 x Gatherer's Guerdon IV
+* 2 x Gatherer's Guerdon III
+* 1x Gatherer's Grasp IV
+* 1x Gatherer's Grasp III
+
+This gear then gets you to 602 Gathering and 626 Perception which given any food/other buffs which give 19 or more perception to be able to harvest HQ.
 
 ## Maps
 
@@ -19,9 +48,9 @@ Dragon/Wyvern Skin maps can be found from any Lv.60 node. They feel like they ta
 
 **_Legendary_**
 Requires 600 Gathering & 645 Perception.
-* **Azys Lla 7am/pm** 
+* **Azys Lla 7pm** 
   * Slot 5 Wattle Bark
-* **Sea of Clouds 5am/pm** 
+* **Sea of Clouds 5pm** 
   * Slot ? Honeydew Almonds
 
 **_Normal_**
@@ -110,8 +139,12 @@ Each Rarity list contains what you can get, not a full results list. That being 
 * 13-30 E Cry
 
 **Rare 2 (300-350)**
-* 11-19 E Cry
-* 3-7 E Cl
+* 10-20 E Cry
+* 3-10 E Cl
+
+**Rare 3 (350-400)**
+* 13 E Cry
+* 7 E Cl
 
 **Rare 4 (400-450)**
 * 13-24 E Cry
@@ -147,3 +180,7 @@ Each Rarity list contains what you can get, not a full results list. That being 
 **Rare 2 (300-350)**
 * 53-62 E Cry
 * 50-63 E Cl
+
+**Rare 6 (500-550?)**
+* 66 E Cry
+* 1-2 Dawn Sand
