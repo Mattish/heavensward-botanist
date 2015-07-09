@@ -56,6 +56,8 @@ Requires 600 Gathering & 645 Perception. At 612 Gathering and 655 Perception you
   * Slot 3 Vanilla Beans
 * **Azys Lla 7pm** 
   * Slot 5 Wattle Bark
+* **Western Coerthas 7pm**
+  * Slot 3 Dravanian Paprika
 
 **_I have yet to unlock the other books :time:_**
 
