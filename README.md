@@ -50,10 +50,12 @@ Dragon/Wyvern Skin maps can be found from any Lv.60 node. They feel like they ta
 
 Requires 600 Gathering & 645 Perception. At 612 Gathering and 655 Perception you have a 76% chance to gather and 8% chance for HQ. It takes 2 hits at this gathering to break through the initial unspoiled shield.
 
-* **Azys Lla 7pm** 
-  * Slot 5 Wattle Bark
 * **Sea of Clouds 5pm** 
   * Slot 2 Honeydew Almonds
+* **Western Coerthas 5pm**
+  * Slot 3 Vanilla Beans
+* **Azys Lla 7pm** 
+  * Slot 5 Wattle Bark
 
 **_I have yet to unlock the other books :time:_**
 
